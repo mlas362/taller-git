@@ -2,12 +2,6 @@
 
 Repositorio para el taller de git
 
-## Encabezado de tipo h2
+cambios desde github.
 
-Bla bla bla.
-
-### Encabezado de tipo h3
-
-Bla bla bla.
-
-añado otra linea desde mi equipo
+otros cambios
